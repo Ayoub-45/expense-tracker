@@ -1,0 +1,12 @@
+.balance {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25px;
+}
+.balance-title {
+  font-size: 22px;
+  text-transform: uppercase;
+}
+.balance-value {
+  font-size: 48px;
+}

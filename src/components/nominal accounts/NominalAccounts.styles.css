@@ -1,0 +1,27 @@
+.nominal-accounts-container {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.value {
+  font-size: 18px;
+}
+.expense > .value {
+  margin-top: 10px;
+  color: #ff0000;
+}
+.income > .value {
+  margin-top: 10px;
+  color: #008000;
+}
+.expense-income {
+  border: solid gray 0.2px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 3px 3px 3px black;
+  min-width: 75px;
+  min-height: 75px;
+  height: auto-fit;
+}
