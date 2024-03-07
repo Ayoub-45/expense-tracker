@@ -7,7 +7,7 @@ import History from "./components/history/History.component";
 function App() {
   return (
     <div className="app">
-      <h1 className="expense-tracker-title">Expense tracker</h1>
+      <h1 className="expense-tracker-title">Expense tracker </h1>
       <Balance />
       <NominalAccounts />
       <History />

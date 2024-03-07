@@ -1,0 +1,6 @@
+.container-expense-income {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #d3d3d3;
+  padding: 5px;
+}
